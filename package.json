@@ -1,0 +1,15 @@
+{
+  "title": "Contextual Mobile Reccomender",
+  "name": "contextual-mobile-reccomender",
+  "version": "0.0.1",
+  "description": "Serving context based suggestions for Firefox for Android/iOS",
+  "main": "index.js",
+  "author": "Francesco Polizzi (@FrancescoSTL)",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL 2.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
